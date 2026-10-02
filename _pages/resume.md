@@ -9,7 +9,7 @@ author_profile: true
 Versatile Data Analyst, Network Engineer, and Cloud Engineer with a background in Computer Science and hands-on expertise in digital center management, network infrastructure, cloud computing, and traffic analysis. Looking to leverage technical proficiency in system administration, network security, and data handling into an impactful engineering role.
 
 ## Professional Experience
-* **Center Manager** | AJIRA DIGITAL - BARINGO NORTH AJIRA CENTER (Oct 2023 - Present - Present)
+* **Center Manager** | AJIRA DIGITAL - BARINGO NORTH AJIRA CENTER (Oct 2023 - Present)
   * Drive program values and philosophy through all activities at the Centre.
   * Safeguard, protect, and maintain (Level 1 basic support) the Center infrastructure and equipment.
   * Provide timely and detailed weekly reports on trainings, activities, events, and incidents at the AYEC Centre.
