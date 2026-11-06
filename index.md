@@ -1,9 +1,8 @@
 ---
 layout: single
+title: "Welcome to My Portfolio"
 author_profile: true
 ---
-
-# Welcome to My Portfolio
 
 Hello! I am **Rotich Mercy Jepkoech**, a Computer Science professional specializing in Network Security and Cloud Systems Analysis.
 
