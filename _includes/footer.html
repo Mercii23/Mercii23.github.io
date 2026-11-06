@@ -1,1 +1,15 @@
 
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.twitter_username %}
+      <li><a href="https://twitter.com/{{ site.twitter_username }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    {% endif %}
+    {% if site.github_username %}
+      <li><a href="https://github.com/{{ site.github_username }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+  </ul>
+</div>
+
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Powered by Mercy.
+</div>
